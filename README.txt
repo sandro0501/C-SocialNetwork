@@ -1,0 +1,1 @@
+Il progetto riguarda la creazione di un prototipo di social network utilizzando il linguaggio di programmazione C.
